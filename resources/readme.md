@@ -24,7 +24,7 @@ This resources repository is a collection of links shared by data science commun
 
 ### Numpy
 
-* [Numpy Arrays](https://hackernoon.com/introduction-to-numpy-1-an-absolute-beginners-guide-to-machine-learning-and-data-
+* [Numpy Arrays](https://hackernoon.com/introduction-to-numpy-1-an-absolute-beginners-guide-to-machine-learning-and-data-  
   science-5d87f13f0d51)
 * [Numpy Tutorial Point](https://www.tutorialspoint.com/numpy/numpy_array_from_existing_data.htm)
 * [DataQuest Numpy Tutorial](https://www.dataquest.io/blog/numpy-tutorial-python/)
