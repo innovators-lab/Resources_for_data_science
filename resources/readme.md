@@ -77,7 +77,8 @@ https://hackernoon.com/introduction-to-numpy-1-an-absolute-beginners-guide-to-ma
 * [150 Machine Learning Formulas](https://drive.google.com/file/d/0B0RLknmL54khUXVrcnZkenNzN1E/view)
 * [Standform Machine Learning](https://stanford.edu/%7Eshervine/teaching/cs-229.html)
 * [Google Cheetsheet](https://developers.google.com/machine-learning/glossary/)
-* [Basic Data Science Concepts](https://blog.dataiku.com/an-introduction-to-key-data-science-concepts? utm_campaign=LTA%20Business%20Analyst%20Campaign&utm_content=50573180&utm_medium=social&utm_source=twitter)
+* [Basic Data Science Concepts](
+https://blog.dataiku.com/an-introduction-to-key-data-science-concepts?utm_campaign=LTA%20Business%20Analyst%20Campaign&utm_content=50573180&utm_medium=social&utm_source=twitter)
 
 ## Data Science Community
 
