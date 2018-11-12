@@ -1,1 +1,2 @@
 
+[150 Machine Learning Formulas](https://drive.google.com/file/d/0B0RLknmL54khUXVrcnZkenNzN1E/view)
