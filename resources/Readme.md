@@ -1,6 +1,6 @@
 
 
-This resources repository is a collection of links shared by data science community in LinkedIn and some of my personal favourites.
+This resources repository is a collection of links shared by data science community in social media and some of my personal favourites.
 
 ## 3 - months syllabus
 
