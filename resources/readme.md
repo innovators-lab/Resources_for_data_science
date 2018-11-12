@@ -24,8 +24,7 @@ This resources repository is a collection of links shared by data science commun
 
 ### Numpy
 
-* [Numpy Arrays](https://hackernoon.com/introduction-to-numpy-1-an-absolute-beginners-guide-to-machine-learning-and-data-  
-  science-5d87f13f0d51)
+* [Numpy Arrays](https://hackernoon.com/introduction-to-numpy-1-an-absolute-beginners-guide-to-machine-learning-and-data-  science-5d87f13f0d51)
 * [Numpy Tutorial Point](https://www.tutorialspoint.com/numpy/numpy_array_from_existing_data.htm)
 * [DataQuest Numpy Tutorial](https://www.dataquest.io/blog/numpy-tutorial-python/)
 * [Numpy Tutorial](https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/)
@@ -40,8 +39,7 @@ This resources repository is a collection of links shared by data science commun
 ## Data Visualization and exploration
 
 * [Top 10 visualization libraries](https://blog.modeanalytics.com/python-data-visualization-libraries/)
-* [Data Visualization blog](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-
-  a2284bae952f)
+* [Data Visualization blog](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
 * [Matplotlib Basics](https://github.com/SSaishruthi/Data_visualization_Matplotlib)
 * [Seaborn Basics](https://github.com/SSaishruthi/Data_visualization_seaborn)
 * [Plotly Basics](https://github.com/SSaishruthi/Data_visualization_plotly)
@@ -78,8 +76,7 @@ This resources repository is a collection of links shared by data science commun
 * [150 Machine Learning Formulas](https://drive.google.com/file/d/0B0RLknmL54khUXVrcnZkenNzN1E/view)
 * [Standform Machine Learning](https://stanford.edu/%7Eshervine/teaching/cs-229.html)
 * [Google Cheetsheet](https://developers.google.com/machine-learning/glossary/)
-* [Basic Data Science Concepts](https://blog.dataiku.com/an-introduction-to-key-data-science-concepts?
-  utm_campaign=LTA%20Business%20Analyst%20Campaign&utm_content=50573180&utm_medium=social&utm_source=twitter)
+* [Basic Data Science Concepts](https://blog.dataiku.com/an-introduction-to-key-data-science-concepts? utm_campaign=LTA%20Business%20Analyst%20Campaign&utm_content=50573180&utm_medium=social&utm_source=twitter)
 
 ## Data Science Community
 
