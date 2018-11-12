@@ -14,7 +14,7 @@ This resources repository is a collection of links shared by data science commun
 
 * [Real Python](https://realpython.com)
 * [Learn Python](https://www.learnpython.org)
-* Quora has lot of questions realted to python programming resources. You can start from anyone. [Python resources listed in   
+* Quora has lot of questions realted to python programming resources. You can start from anyone. [Python resources listed in 
   Quora](https://www.quora.com/How-should-I-start-learning-Python-1)
 * [Regex](https://www.machinelearningplus.com/python/python-regex-tutorial-examples/)
 * [Hacker Rank for practicing](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction)
